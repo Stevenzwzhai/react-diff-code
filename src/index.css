@@ -1,0 +1,5 @@
+.react-diff-code-view .react-diff-code-view-header {
+    display: flex;
+    justify-content: space-around;
+    padding: 2px 0;
+}
